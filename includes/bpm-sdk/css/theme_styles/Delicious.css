@@ -1,0 +1,9 @@
+.sidebar{
+    display:none !important;
+}
+.entry{
+    width: 100% !important;
+}
+.banner-title{
+    display: none;
+}

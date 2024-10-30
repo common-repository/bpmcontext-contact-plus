@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.sidebar{
+    display:none;
+}
+
+.article-page-head{
+    display:none;
+}
+
+.col-md-3{
+    display: none !important;
+}
+
+.col-md-9{
+    width:100% !important;
+}
+
+.mainblogcontent{
+    width:100% !important;
+}

@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.title{
+    font-size: 1em !important;
+    margin:0px !important;
+    padding:0px !important;
+}
+
+.entry-header{
+    width:100% !important;
+    max-width:100% !important;
+}
+
+.entry-content{
+    width:100% !important;
+    max-width:100% !important;
+}
+
+.entry-title{
+    display: none;
+}

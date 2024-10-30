@@ -1,0 +1,12 @@
+.title-area{
+    padding:0 !important;
+    font-size: 1em !important;
+}
+
+.sidebar{
+    display: none !important;
+}
+
+.content{
+    width: 100% !important;
+}

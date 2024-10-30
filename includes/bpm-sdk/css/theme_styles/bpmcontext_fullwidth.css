@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.entry-content{
+    width: 100% !important;
+    max-width:100% !important;
+}
+
+.entry-title{
+    display: none;
+}
+
+.sidebar{
+    display: none !important;
+}
+
+.content{
+    width: 100% !important;
+}
+

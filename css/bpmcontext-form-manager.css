@@ -1,0 +1,162 @@
+.bpm-form-grid-column-detail{
+    width:100%;
+    max-width:70em;
+}
+.bpm-demo-button{
+    cursor: pointer;
+    cursor: hand;
+}
+#bpm_contact_form_save_button{
+    cursor: pointer;
+    cursor: hand;
+}
+.bpm-form-subtitle{
+    font-size:.85em;
+    color:darkslategray;
+    margin-left:1em;
+    font-weight: normal;
+}
+.bpm-form-education-holder{
+    height:3.5em;
+    background-color:white;
+    position: relative;
+    margin-bottom:1.5em;
+    color:black;
+    width:100%;
+    max-width:70em;
+    margin-top:1.5em;
+}
+.bpm-form-education-header{
+    background-color:white;
+    width:100%;
+    height:2em;
+    cursor:pointer;
+    position: absolute;
+    top: 0;
+}
+.bpm-form-education-header h2{
+    padding-left:.5em;
+
+}
+.bpm-form-education-content{
+    position: absolute;
+    top: 3em;
+    left:0;
+    margin:.5em;
+}
+.bpm-form-education-content p{
+    font-size:1.25em;
+}
+.bpm-form-grid-elementcontainer{
+    margin-bottom:2em;
+}
+.bpm-form-grid-column-center{
+    width:5%;
+    float:left;
+}
+.bpm-form-grid-column{
+    width:43%;
+    float:left;
+    margin-bottom:1em;
+    min-height: 15em;
+}
+.bpm-form-grid-column-inner{
+    width:100%;
+    padding: 1em 0;
+}
+.bpm-form-grid-column-inner-wide{
+    margin: 0 auto;
+    padding: 1em 0;
+    float:left;
+    width:91%;
+}
+.bpm-form-grid-column-header{
+    padding-top:1em;
+    font-weight: bold;
+    font-size: 1.5em;
+    width:90%;
+    height:2em;
+}
+.bpm-form-grid-column-header-wide{
+    padding-top:1em;
+    font-weight: bold;
+    font-size: 1.5em;
+    width:100%;
+}
+
+.bpm-add-horizontal-space{
+    margin-bottom: 1em;
+}
+.bpm-hide {
+  display: none;
+}
+.bpm-select {
+    min-width: 18em
+}
+.bpm_contact_inline{
+    display: inline-block;
+}
+
+.column-enabled{
+    width:5em;
+}
+
+.bpm_contact_form_saved_message{
+    display: inline-block;
+    color:darkgreen;
+    float:right;
+}
+
+.bpm-mid-table-header{
+    font-size:1.5em;
+    column-span: 2;
+    font-weight: bold;
+}
+
+.bpm-form-table {
+    border: 1px solid #ccc;
+    width: 100%;
+    margin:0;
+    padding:0;
+    border-collapse: collapse;
+    border-spacing: 0;
+  }
+
+.bpm-form-table-tr {
+    border: 1px solid #ddd;
+    padding: 5px;
+}
+
+.bpm-form-table-td {
+    font-size:1.2em;
+    padding: 10px;
+    text-align: left;
+}
+
+.bpm-admin-overlay {
+  background: rgba(169, 169, 169, 0.5);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  position: absolute;
+  padding: 0;
+}
+.bpm-admin-activity {
+  color: #008cba;
+  border-radius: 8px;
+  font-size: 3rem;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+#bpm_email_forwarding_message{
+    font-size: 1.5em;
+}
+.bpm_form_preview_email{
+    height:2em;
+}

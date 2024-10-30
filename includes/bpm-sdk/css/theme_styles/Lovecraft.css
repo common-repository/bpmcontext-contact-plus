@@ -1,0 +1,11 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.sidebar{
+    display:none;
+}
+
+.section-inner{
+    width:90% !important;
+}
+
